@@ -1,3 +1,5 @@
+export EDITOR=vim
+
 # Homebrew if on Mac
 if [[ "$OSTYPE" == "darwin"* ]]; then
   eval "$(/opt/homebrew/bin/brew shellenv)"

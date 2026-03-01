@@ -11,6 +11,10 @@ SYMLINKS=(
   ".config/ghostty/config"
   ".config/kitty/catppuccin-frappe.conf"
   ".config/kitty/kitty.conf"
+  ".config/waybar/config.jsonc"
+  ".config/waybar/style.css"
+  ".config/hypr/hyprland.conf"
+  ".config/hypr/hypridle.conf"
 )
 
 link() {
