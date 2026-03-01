@@ -9,6 +9,8 @@ SYMLINKS=(
   ".tmux.conf"
   ".ssh/config"
   ".config/ghostty/config"
+  ".config/kitty/catppuccin-frappe.conf"
+  ".config/kitty/kitty.conf"
 )
 
 link() {
